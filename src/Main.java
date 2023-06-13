@@ -13,5 +13,51 @@ public class Main {
             // for you, but you can always add more by pressing ⌘F8.
             System.out.println("i = " + i);
         }
+
+            int myFavoriteNumber = 777;
+            System.out.println(myFavoriteNumber);
+
+            String myString = "Hello, Universe";
+            System.out.println(myString);
+
+            long myNumber = 123L;
+            System.out.print(myNumber);
+
+            float myFloat = myNumber;
+
+            int x = 5;
+            System.out.println(x++);
+            System.out.println(x);
+
+            int y = 5;
+            System.out.println(++y);
+            System.out.println(y);
+
+//            String theNumberThree = "three";
+//            Object o = theNumberThree;
+//            int three = (int) o;
+
+            int a = 4;
+            a += 5;
+            System.out.println(a);
+
+            int b = 3;
+            int c = 4;
+            c = b * c;
+            System.out.println(c);
+
+            int d = 10;
+            int e = 2;
+            d = d / e;
+            e = e - d;
+            System.out.println(d);
+            System.out.println(e);
+
+
+
+
+
+
+
     }
 }
