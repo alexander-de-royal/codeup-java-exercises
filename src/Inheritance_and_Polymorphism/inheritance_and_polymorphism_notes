@@ -1,0 +1,11 @@
+abstraction - implementaion details can be abstracted away making code more readable
+encapsulation - restriction of access to various levels of abstraction preventing data inconsistencies
+inheritance - duplication is minimized though inheritance hierarchies
+polymorphism - flexible code where multiple implementations may be swapped out behind a common interface
+
+-- The Four Pillars of OOP --
+
+1. Abstraction - keep it clean
+2. Encapsulation - keep it contained
+3. Inheritance - keep it hierarchical(DRY)
+4. Polymorphism - keep it versatile
